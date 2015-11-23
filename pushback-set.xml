@@ -2,7 +2,7 @@
 <PropertyList>
 	<sim>
 		<description>Pushback</description>
-		<author>Gijs de Rooy</author>
+		<author>Gijs de Rooy (3D) Detlef Faber (FDM) Jonathan Redpath (Splash)</author>
 		<status>alpha</status>
 		<rating>
 			<FDM type="int">3</FDM>
@@ -24,7 +24,9 @@
 		<model>
 			<path>Aircraft/pushback/Models/Pushback.xml</path>
 		</model> 
-
+		<startup>
+			<splash-texture>splash.png</splash-texture>
+		</startup>
 		<chase-distance-m type="double" archive="y">-14.0</chase-distance-m>
 		<view n="0">
 			<internal archive="y">true</internal>   
