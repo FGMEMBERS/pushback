@@ -5,13 +5,13 @@ MATERIAL "_White_" rgb 1 1 1 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 
 MATERIAL "_Glass_Blue_Tint_" rgb 0.847059 0.921569 0.945098 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0.52
 MATERIAL "_Gainsboro_" rgb 0.862745 0.862745 0.862745 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0
 MATERIAL "_Glass_Gold_Tint_" rgb 1 0.945098 0 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0.4
-MATERIAL "Gold" rgb 0.803922 0.698039 0.094118 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0
+MATERIAL "Gold" rgb 0.803922 0.698039 0.094118 amb 0.8 0.6 0.1 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0
 MATERIAL "_DimGray_" rgb 0.411765 0.411765 0.411765 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0
 MATERIAL "_Gray_Glass_1" rgb 0.709804 0.709804 0.709804 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0.29
-MATERIAL "_Charcoal_" rgb 0.137255 0.137255 0.137255 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0
-MATERIAL "Gray8" rgb 0.266667 0.266667 0.266667 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0
+MATERIAL "_Charcoal_" rgb 0.137255 0.137255 0.137255 amb 0.1 0.1 0.1 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0
+MATERIAL "Gray8" rgb 0.266667 0.266667 0.266667 amb 0.1 0.1 0.1 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0
 MATERIAL "Light_Blue" rgb 0.537255 0.721569 0.866667 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0
-MATERIAL "_Red_Glass_" rgb 1 0 0 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0.5
+MATERIAL "_Red_Glass_" rgb 1 0 0 amb 1.0 0.1 0.1 emis 0.5 0 0 spec 0.33 0.33 0.33 shi 132 trans 0.5
 MATERIAL "_Gray_Glass_" rgb 0.709804 0.709804 0.709804 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.33 0.33 0.33 shi 32 trans 0.5
 OBJECT world
 kids 127
